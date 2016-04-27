@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>personalsalesmen</name>
+	<displayName><![CDATA[Personal Salesmen]]></displayName>
+	<version><![CDATA[2.2]]></version>
+	<description><![CDATA[Personal Salesmen is for every shop that has personal sales within your emplyees. Developed by inform-all.nl]]></description>
+	<author><![CDATA[inform-all.nl]]></author>
+	<tab><![CDATA[Admin]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
